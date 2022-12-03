@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-image: url("img/bg.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.heading{
+    color: white;
+    text-align: center;
+}
+
+.empty{
+    width: 35%;
+    height: 55px;
+    float: left;
+}
+.div1{
+    margin-top: 20px;
+    background-color: white;
+    width: 100%;
+    opacity: 0.8;
+    float: left;
+    height: 55px;
+    
+}
+.div2{
+
+    background-color: white;
+    width: 100%;
+    opacity: 0.8;
+    float: left;
+    height: 55px;
+    position: relative;
+    bottom: 450px;
+    text-align: center;
+
+    
+}
+.nav-bar ul li{
+    padding-left: 30px;
+    position: relative;
+    top: 20px;
+    display: inline;
+}
+.nav-bar{
+    width: 30%;
+    height: 55px;
+    float: left;
+}
+.heading-1{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.heading-2{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.main-1{
+    margin-top: 90px;
+    height: 450px;
+}
+
+.empty-2{
+    float: left;
+    width: 30%;
+    height: 450px;
+}
+.main-1-1{
+    float: left;
+    height: 450px;
+    width: 40%;
+    background-color: white;
+    opacity: 0.8;
+
+}
+.main-1-2{
+    float: left;
+    height: 400px;
+    width: 40%;
+    background-color: white;
+    opacity: 0.8;
+    position: relative;
+    top: -80px;
+
+}
+.main-1-3{
+    float: left;
+    height: 200px;
+    width: 40%;
+    background-color: white;
+    opacity: 0.8;
+    position: relative;
+    top: -210px;
+
+}
+
+.newimage{
+    margin: 15px;
+    width: 580px;
+}
+.text{
+    text-align: center;
+}
+.hr{
+    width: 250px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.hr2{
+    width: 350px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text2{
+    text-align: center;
+}
+.img-2{
+    width: 140px;
+    margin-left: 20px;
+    height: 120px;
+}
+.para{
+    width: 70%;
+    float: left;
+
+}
+.para2{
+    margin: 10px;
+    position: relative;
+    top: 30px;
+}
+.para3{
+    margin: 10px;
+
+}
+
+.small-img{
+    width: 30%;
+    float: left;
+}
